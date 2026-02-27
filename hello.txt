@@ -1,2 +1,2 @@
-Hello Git
-this is my second change
+Hello git
+This line is from feature1 branch
