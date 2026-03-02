@@ -1,3 +1,2 @@
 Hello git
-This line is from feature1 branch
-this line is from master branch
+this is the final version 
